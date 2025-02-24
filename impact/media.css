@@ -1,0 +1,156 @@
+@media (min-width:320px) {
+    .line {
+        background-color: #037669;
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .a {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .box {
+
+        height: auto;
+        width: 100%;
+
+    }
+
+   
+
+    .nikunj {
+        padding: 0px;
+    }
+
+    .img
+    {
+        padding-top: 25%;
+    }
+    .img .btn{
+        
+        width: 35%; 
+        height: 40px;
+
+    }
+}
+
+@media (min-width:767px) {
+    .line {
+        background-color: #037669;
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .a {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .box {
+
+        height: auto;
+        width: 100%;
+    }
+
+    .nikunj {
+        padding: 50px;
+    }
+    .img .btn{
+        width: 30%; 
+        height: 40px;
+
+    }
+    .img
+    {
+        padding-top: 20%;
+    }
+}
+
+@media (min-width:1024px) {
+    .line {
+        background-color: #037669;
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .a {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .a p {
+        padding-left: 20px;
+        padding-top: 14px;
+
+    }
+
+    .nikunj {
+        padding-left: 120px;
+        padding-top: 60px;
+    }
+    .img .btn{
+        width: 18%; 
+        height: 40px;
+
+    }
+    .img
+    {
+        padding-top: 13%;
+    }
+}
+
+@media (min-width:1200px) {
+
+    .line {
+        background-color: #037669;
+        height: 50px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .a {
+        display: flex;
+        flex-direction: row;
+
+
+    }
+
+    .box {
+        height: 610px;
+       
+    }
+
+    .nikunj {
+        padding-left: 120px;
+        padding-top: 100px;
+    }
+
+    .img .btn{
+        width: 18%; 
+        height: 40px;
+
+    }
+    .img
+    {
+        padding-top: 13%;
+    }
+}
